@@ -69,7 +69,7 @@ Python, JavaScript, Node.js, Flask, Express, Django, PostgreSQL, MongoDB, MySQL,
 
 <h2 id="certs">🎓 Certifications & Education</h2>
 <ul>
-  <li>ALX Back End Development — Cohort 2025 — Key modules: Backend Systems, Cloud Integration, APIs</li>
+  <li>ALX Back End Development — Cohort 2025 — | In Progress</li>
   <li>AWS Certified Solutions Architect – Associate — AWS | October, 2024</li>
   <li>AWS Certified Cloud Practitioner — AWS | July, 2024</li>
   <li>OCI Certified Associate — Oracle | 2022</li>
