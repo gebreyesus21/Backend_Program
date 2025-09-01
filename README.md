@@ -80,17 +80,24 @@ Python, JavaScript, Node.js, Flask, Express, Django, PostgreSQL, MongoDB, MySQL,
 </ul>
 
 <hr/>
-
 <h2 id="contact">📬 Contact</h2>
-<p>
-  <a href="mailto:kidanu.gebreyesus@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/gebreyesus-gebrerufael">LinkedIn</a> •
-    <a href="https://github.com/gebreyesus21">GitHub</a>
-   <a href="mailto:kidanu.gebreyesus@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/gebreyesus-gebrerufael" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:kidanu.gebreyesus@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/gebreyesus21" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 <p align="center"><b>Let's build impactful software together!</b></p>
 
 <hr/>
-<p align="center">⭐ Star a repo or reach out if my work resonates with you!</p>
+<!-- ====== FOOTER / CALL TO ACTION ====== -->
+
+<p align="center">
+  If my work resonates with you, ⭐ star a repo, open an issue, or reach out. Thanks for visiting!
+</p>
