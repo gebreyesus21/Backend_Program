@@ -86,6 +86,8 @@ Python, JavaScript, Node.js, Flask, Express, Django, PostgreSQL, MongoDB, MySQL,
   <a href="mailto:kidanu.gebreyesus@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/gebreyesus-gebrerufael">LinkedIn</a> •
     <a href="https://github.com/gebreyesus21">GitHub</a>
+   <a href="mailto:kidanu.gebreyesus@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
 </p>
 
 <p align="center"><b>Let's build impactful software together!</b></p>
