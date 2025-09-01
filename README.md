@@ -69,10 +69,14 @@ Python, JavaScript, Node.js, Flask, Express, Django, PostgreSQL, MongoDB, MySQL,
 
 <h2 id="certs">🎓 Certifications & Education</h2>
 <ul>
-  <li>ALX Back End Development — Cohort [Year] — Key modules: Backend Systems, Cloud Integration, APIs</li>
-  <li>AWS Certified Solutions Architect – Associate — AWS | 2023</li>
+  <li>ALX Back End Development — Cohort 2025 — Key modules: Backend Systems, Cloud Integration, APIs</li>
+  <li>AWS Certified Solutions Architect – Associate — AWS | October, 2024</li>
+  <li>AWS Certified Cloud Practitioner — AWS | July, 2024</li>
   <li>OCI Certified Associate — Oracle | 2022</li>
-  <li>Bachelor of Information Technology — [University] | [Year]</li>
+  <li>Bachelor of Information Technology — Debre Berhan University | 2013</li>
+  <li>MBA in Project Management — Alpha University Collage | 2020</li>
+  <li> Master of Science in Information Technology — Florida University Southeast | in Progress </li>
+
 </ul>
 
 <hr/>
